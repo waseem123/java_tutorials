@@ -1,0 +1,6 @@
+1. It start with character only.
+2. It does not allow blank space, indentation or new line declaration.
+3. It does not allow special characters(Symbols) except Underscore(_)
+4. It does not allow keywords.
+5. Variables are case sensitive
+6. Variable names must have to be meaningful

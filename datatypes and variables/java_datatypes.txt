@@ -1,0 +1,45 @@
+There are two types of datatypes - 
+1. Primitive
+	1.1 boolean
+		boolean (true or false)
+	1.2 Numeric
+		a. character
+			char (it holds a single character
+			[A-Z] or [a-z] or [0-9] or [symbols])
+
+		b. integrals
+			i) integers
+				I)byte
+					size - 1 byte
+					range- -128 to 127 
+				II)short 
+					size - 2 bytes
+					range- -32,768 to 32,767
+				III)int
+					size - 4 bytes
+					range- - 2,147,483,648 (-2^31) to 2,147,483,647 (2^31 -1)
+				IV) long
+					size - 8 bytes
+					range- -9,223,372,036,854,775,808(-2^63) to 9,223,372,036,854,775,807(2^63 -1)(inclusive)
+
+			ii) floating point data
+				I) float
+					size - 4 bytes
+				II) double
+					size - 8 bytes
+
+ EXAMPLE - int x = 10;
+
+
+2. Non - Primitive
+	2.1 Arrays
+		Size - size of datatype * no. of elements
+	2.2 Strings
+		Size - 2 bytes * no. of characters
+	2.3 Objects
+
+ Example - int[] arr = {2,4,6,8,10};
+
+
+ What is Unicode System?
+ https://www.javatpoint.com/unicode-system-in-java

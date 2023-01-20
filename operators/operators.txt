@@ -1,0 +1,42 @@
+1. Arithmetic
+	1. Addition(+)
+	2. Substraction(-)
+	3. Multiplication(*) asterisk
+	4. Division(/)
+	5. Modulus(%)
+
+2. Assignmet
+	1. assignment(=)
+	2. add assingment(+=)
+	3. sub assingment(-=)
+	4. multiply assingment(*=)
+	5. division assingment(/=)
+	6. mod assingment(%=)
+
+3. Unary Operators
+	1. Increment(++)
+	2. Decrement(--)
+
+4. Relational/Comparison
+	1. Less than(<)
+	2. greater than(>)
+	3. Less than or equal(<=)
+	4. Greater than or equal(>=)
+	5. Eqauls(==)
+	6. Not Equals(!=)
+
+5. Logical
+	1. AND(&&)
+	2. OR(||)
+	3. NOT(!)
+
+6. Bitwise
+	1. and(&)
+	2. or(|)
+
+7. Shift
+	1. Left Shift(<<)
+	2. Right Shift(>>)
+
+8. Ternery Oprators
+	1. ternery(?:)
