@@ -1,0 +1,15 @@
+Consider the following values
+x = 10, y=20, p=4, q=6 z=9 
+
+1. x+y-x*3
+2. p+q/q-p
+3. x+=y*(3+z)
+4. check whether x is less than y-z
+5. check whether y is greater than p-q
+6. what will be the output of (x+2>6 and y-2<8)
+7. 2&3&4
+8. 5|6|7
+9. check whether the datatype of x is float
+10.check wheterh x is present between 1 and 900
+11.x right shift p
+12.y left shift p right shift 3
