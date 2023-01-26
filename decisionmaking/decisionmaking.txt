@@ -1,0 +1,86 @@
+1. Conditional Decision Making
+	a. if statements
+
+		if(CONDITION){
+			statement 1
+			statement 2
+			...
+			statement N
+		}
+
+
+	b. if else statements
+
+		if(CONDITION){
+			statement 1
+			statement 2
+			...
+			statement N
+		}else{
+			statement 1
+			statement 2
+			...
+			statement N
+		}
+	c. if elseif else statements
+
+
+		if(CONDITION){
+			statement 1
+			statement 2
+			...
+			statement N
+		}else if(CONDITION){
+			statement 1
+			statement 2
+			...
+			statement N
+		}else if(CONDITION){
+			statement 1
+			statement 2
+			...
+			statement N
+		}else{
+			statement 1
+			statement 2
+			...
+			statement N
+		}
+	d. Nested if
+
+		if(CONDITION){
+			statement 1
+			statement 2
+
+			if(CONDITION){
+				statement 1
+				statement 2
+				...
+				statement N
+			}else{
+				statement 1
+				statement 2
+				...
+				statement N
+			}
+			...
+			statement N
+		}else{
+			statement 1
+			statement 2
+			if(CONDITION){
+				statement 1
+				statement 2
+				...
+				statement N
+			}else{
+				statement 1
+				statement 2
+				...
+				statement N
+			}
+			...
+			statement N
+		}
+2. Choice based Decision Making
+	switch cases
