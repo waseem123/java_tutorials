@@ -22,6 +22,8 @@
 			...
 			statement N
 		}
+
+
 	c. if elseif else statements
 
 
@@ -46,6 +48,8 @@
 			...
 			statement N
 		}
+
+
 	d. Nested if
 
 		if(CONDITION){
@@ -82,5 +86,38 @@
 			...
 			statement N
 		}
+
+
 2. Choice based Decision Making
 	switch cases
+
+		switch(choice){
+			case choice1:
+				statement 1
+				statement 2
+				...
+				statement N
+				break;
+
+			case choice2:
+				statement 1
+				statement 2
+				...
+				statement N
+				break;
+
+			...
+
+			case choiceN:
+				statement 1
+				statement 2
+				...
+				statement N
+				break;
+
+			default:
+				statement 1
+				statement 2
+				...
+				statement N
+		}
