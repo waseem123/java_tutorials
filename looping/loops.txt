@@ -1,0 +1,9 @@
+1. Entry Controlled
+	condition checked before execution
+	1. WHILE loop
+	2. FOR Loop
+	3. Extended FOR Loop
+
+2. Exit Controlled
+	condition checked after execution and atleast one iteration takes place
+	1. DO WHILE Loop
