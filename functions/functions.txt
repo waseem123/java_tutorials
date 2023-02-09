@@ -1,0 +1,46 @@
+Function is a self contained block of code that performs a specific task.
+
+Function Lifecycle-
+ 1. Function Creation - You define a function with respect to the expected result.
+ 2. Function invokation/CALL - Whenever you need the functionality to be executed then you call that function.
+ 3. Function Execution - In this state the function executes the code residing in the function body.
+
+ Example -
+ 1. function creation 
+ function greeting(){
+ 	print("Welcome to Java Functions");
+ }
+
+ main(){
+2. Function invocation 	
+ 	greeting();
+
+ 	greeting();
+
+ 	greeting();
+
+ 	greeting();
+ }
+
+
+Syntax to create a function - 
+ACCESS_SPECIFIER [static] RETURN_DATATYPE FUNCTION_NAME(A1,A2..AN){
+	Statement 1
+	Statement 2
+	Statement 3
+	...
+	Statement N
+}
+
+example
+public static int add(int a,int b){
+	int c = a+b;
+	return c;
+}
+
+
+Types of Functions - 
+1. No Parameters and No Return Value
+2. With Parameters but No Return Value
+3. No Parameters but return value
+4. Parameters and Return Value both
