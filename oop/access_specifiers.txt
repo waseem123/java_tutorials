@@ -1,0 +1,7 @@
+Access Specifiers - 
+	are the keywords used to restrict the data access.
+
+	These are of 3 types - 
+	1. Public
+	2. Private
+	3. Protected
