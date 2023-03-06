@@ -20,13 +20,12 @@ class SmartWatch extends Watch implements Android{
 	String connectivity = "Bluetooth";
 
 	public void displaySmartWatch(){
-
+		System.out.println("Android Version - "+android_version);
 		System.out.println("CONNECTIVITY - "+connectivity);
 		System.out.println("_________________________");
 	}
 
 	public void getSmartFeatures(){
-
 		String[] features = {"Heart Beat","Exercise","Step Count","Notifications"};
 		for (String feature:features ) {
 				System.out.println(feature);	
