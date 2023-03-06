@@ -1,0 +1,22 @@
+Polymorphism - 
+Poly - Many
+Morphing - changing form / changing behaviour
+
+Taking more than one form
+
+"A method is defined with a single name but having multiple definitions is called as Polymorphism"
+
+exmple - 
+getArea(){returns area of circle}
+getArea(){returns area of rectangle}
+getArea(){returns area of square}
+getArea(){returns area of any random geometrical shape}
+
+There are two types of Polymorphism
+1. Compile Time / Static Binding / Method Overloading - 
+
+getArea(int r){ return area of circle }
+getArea(int l,int b){ return area of rectangle }
+getArea(int l,int b, int h){ return area of triangle }
+
+2. Run Time / Dynamic Binding / Method Overriding
